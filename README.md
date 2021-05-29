@@ -17,7 +17,6 @@ For example:
 ```    fullfile(tempdir,'ECGData'))```
 
 If you use ```git clone https://github.com/mathworks/physionet_ECG_data``` to download the data, the .zip file is "ECGData.zip" in your
-
 physionet_ECG_data folder.
 
 
